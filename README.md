@@ -1,11 +1,13 @@
-![Alt Text](https://github.com/mencholipa14/Uau-Chat/raw/{branch}/path/to/image.gif)
+![Alt Text](https://github.com/mencholipa14/Uau-Chat/raw/master/path/to/image.gif)
 
 
 # Uau-Chat
-Um sistema de chat online
+Um sistema de chat online com funcionamento em tempo real
 
-Uau Chat é uma plataforma de chat online. Você pode criar uma sala ou entrar em salas abertas. Além disso, você pode reportar pessoas que estejam sendo desagradável ou ofensiva. 
+Uau Chat é uma plataforma de chat online. Você pode criar uma sala ou entrar em salas abertas. Além disso, você pode reportar pessoas que estejam sendo desagradáveis ou ofensivas. Esta plataforma foi criada para fins acadêmicos, sem fins lucrativos 
 
-## teste
+## Tecnologias utilizadas
+Neste projeto foi utilizado HTML5, CSS3 com Materialize, Javascript com JQuery e AJAX, PHP e Mysql.
 
-Criada por Marcos Alexandre.
+## Desenvolvedor
+Este projeto foi desenvolvido por mim, Marcos Alexandre xD
