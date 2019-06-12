@@ -1,6 +1,3 @@
-![Um texto](https://github.com/mencholipa14/Uau-Chat/blob/master/img/icon.png)
-
-
 # Uau-Chat
 Um sistema de chat online com funcionamento em tempo real
 
