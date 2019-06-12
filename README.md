@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/mencholipa14/Uau-Chat/raw/master/path/to/img/logo.png)
+![Alt Text](https://github.com/mencholipa14/Uau-Chat/img/logo.png)
 
 
 # Uau-Chat
