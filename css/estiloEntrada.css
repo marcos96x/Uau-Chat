@@ -1,0 +1,20 @@
+ body{
+    background-color: #fafafa ;
+}
+#nick{
+    max-width: 300px;
+}
+#entrar{
+    background-color: #b3e5fc ;
+    width: 300px;
+    height: 400px;
+
+}
+h2{
+	font-family: "Segoe UI Black";
+	color: #2ab8f0;
+}
+p{
+	font-family: "Segoe UI";
+	font-size: 20px;
+}
