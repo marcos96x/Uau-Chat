@@ -1,4 +1,4 @@
-![Um texto](https://github.com/mencholipa14/Uau-Chat/blob/master/img/logo.png)
+![Um texto](https://github.com/mencholipa14/Uau-Chat/blob/master/img/icon.png)
 
 
 # Uau-Chat
