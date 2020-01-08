@@ -7,4 +7,4 @@ Uau Chat é uma plataforma de chat online. Você pode criar uma sala ou entrar e
 Neste projeto foi utilizado HTML5, CSS3 com Materialize, Javascript com JQuery e AJAX, PHP e Mysql.
 
 ## Desenvolvedor
-Este projeto foi desenvolvido por mim, Marcos Alexandre xD
+Este projeto foi desenvolvido por mim, Marcos Alexandre
